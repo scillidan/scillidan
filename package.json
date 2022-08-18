@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "minify": "^8.0.4",
+    "parcel": "^2.6.2"
+  }
+}

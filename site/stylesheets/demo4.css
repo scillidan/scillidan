@@ -1,0 +1,16 @@
+body {
+    font-family: "Sarasa Mono", sans-serif;
+    background-image: url(/assets/grass.png);
+}
+
+.content__title {
+    font-size: 13vw;
+}
+
+.content__credits, .intro {
+    font-family: 'Sarasa Mono';
+}
+
+.content__credits {
+    font-size: 1rem;
+}
