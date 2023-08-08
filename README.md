@@ -1,1 +1,1 @@
-![Metrics](/github-metrics.svg)
+![Steam](/metrics.plugin.steam.full.svg)
